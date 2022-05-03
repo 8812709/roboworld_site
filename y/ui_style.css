@@ -1,0 +1,32 @@
+a:link {
+    text-decoration: none
+}
+
+a:visited {
+    text-decoration: none
+}
+
+.share_buttons ul span {
+    margin: 5px
+}
+
+.fa_custom-f:hover {
+    color: #3b5998
+}
+
+.fa_custom-i:hover {
+    background: #F09433;
+    background: -webkit-linear-gradient(to right, #F09433 0%, #E6683C 25%, #DC2743 50%, #CC2366 75%, #BC1888 100%);
+    background: -moz-linear-gradient(to right, #F09433 0%, #E6683C 25%, #DC2743 50%, #CC2366 75%, #BC1888 100%);
+    background: linear-gradient(to right, #F09433 0%, #E6683C 25%, #DC2743 50%, #CC2366 75%, #BC1888 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.fa_custom-l:hover {
+    color: #0e76a8
+}
+
+.fa_custom-e:hover {
+    color: red
+}
